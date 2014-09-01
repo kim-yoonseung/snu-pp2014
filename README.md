@@ -14,33 +14,33 @@ Lecture: Mon 16:00-17:50 @ Bldg 302 Rm 208
 
 Lab: Wed 16:00-17:50 @ Bldg 302 Rm 311-1
 
+TA Office Hour: Mon, Wed 15:00-16:00 @ Bldg 302 Rm 312-2. If not eligible, please mail us.
+
 ## Announcement ##
 
-Hello, world!
+* Due to shortage in seats, we split the class into two groups for lab session.
+  + Wed 16:00-16:50: those with non-Korean names and those whose name is between "가가가" and TBA (alphabetical order)
+  + Wed 17:00-17:50: those whose name is between TBA and "희희희".
+  + If you do not like your time, do not worry; we will swap at the middle of the semester.
+* 
 
 ## Homework ##
 
-Important: DO NOT CHEAT. we are experts in picking out cheaters. Unfortunately, every year some students cheat. :$
-
-* Do not copy other's source code. We use an automated clone checker for all the submissions of 10 years.
-* Do not attempt to attack TA's graders. Please..
-
+* *Important: DO NOT CHEAT*. we are experts in picking out cheaters. Unfortunately, every year some students cheat. :$
+  + Do not copy other's source code. We use an automated clone checker for all the submissions of 10 years.
+  + Do not attempt to attack TA's graders. Please..
+* Use [Racket 6.1](http://download.racket-lang.org) and [OCaml 4.01](http://ocaml.org/docs/install.html). If you are not using these versions, your submission may not be properly graded.
+* Follow homework instructions strictly. Especially, watch your input/output formats. We will give you self graders, so grade with it before submission.
 
 ### Submission and Grading ###
 
-To be announced
+* [TBA](http://en.wikipedia.org/wiki/To_be_announced).
 
-## Help ##
+## Lab Material ##
 
-### Office Hour ###
+* 20140903: TBA
 
-Mon, Wed 15:00-16:00 @ Bldg 302 Rm 312-2. If not eligible, please mail us.
-
-### Lab Material ###
-
-TBA
-
-### Reference ###
+## Reference ##
 
 * Racket(Scheme)
   + [Racket Homepage](http://racket-lang.org)
