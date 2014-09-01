@@ -3,7 +3,9 @@
 TA: [Jeehoon Kang](http://sf.snu.ac.kr/jeehoon.kang/),
     [Yoonseung Kim](http://ropas.snu.ac.kr/~yskim/)
     
-    [Software Foundations Laboratory](http://sf.snu.ac.kr/) / [CSE](http://cse.snu.ac.kr) / [Seoul National University](http://www.snu.ac.kr)
+    [Software Foundations Laboratory](http://sf.snu.ac.kr/)
+    / [CSE](http://cse.snu.ac.kr)
+    / [Seoul National University](http://www.snu.ac.kr)
     
 TA Email: (210ta at ropas dot snu dot ac dot kr)
 * For questions, please use [this board](https://ropas.snu.ac.kr/phpbb/viewforum.php?f=33).
