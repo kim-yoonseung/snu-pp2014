@@ -40,20 +40,20 @@ TBA
 ## Reference ##
 
 * Racket(Scheme)
-  + [Racket Homepage]
-  + [Download Racket]
-  + [How to Program Racket]
+  + [Racket Homepage](racket-lang.org)
+  + [Download Racket](racket-lang.org/download/)
+  + [How to Program Racket](http://www.ccs.neu.edu/home/matthias/Style/style/)
 * OCaml(ML)
-  + [Ocaml tutorial (2013/9/11)]
-  + [Ocaml tutorial (2011/9/7)]
-  + [Ocaml tutorial (2011/3/10)]
-  + [Ocaml Homepage]
-  + [Download OCaml]
-  + [The Objective Caml manual]
-  ++ [The core library]
-  ++ [The standard library]
-  ++ [The Objective Caml langauge reference]
-  + [Developing Applications With Objective Caml]
-  + [OCaml tutorial]
-  + [Books on OCaml]
-  + [Caml programming guidelines]
+  + [Ocaml tutorial (2013/9/11)](http://ropas.snu.ac.kr/~ta/4190.310/13/ocaml_tutorial13f.pdf)
+  + [Ocaml tutorial (2011/9/7)](../../4190.310/11f/ocaml_tutorial11f.pdf)
+  + [Ocaml tutorial (2011/3/10)]("../../4190.310/11f/ocaml_tutorial11s.pdf)
+  + [Ocaml Homepage](http://caml.inria.fr/)
+  + [Download OCaml](http://caml.inria.fr/download.en.html)
+  + [The Objective Caml manual](http://caml.inria.fr/pub/docs/manual-ocaml/index.html)
+    - [The core library](http://caml.inria.fr/pub/docs/manual-ocaml/manual033.html)
+    - [The standard library](http://caml.inria.fr/pub/docs/manual-ocaml/manual034.html)
+    - [The Objective Caml langauge reference](http://caml.inria.fr/pub/docs/manual-ocaml/language.html)
+  + [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/index.html)
+  + [OCaml tutorial](http://ocaml.org/tutorials/)
+  + [Books on OCaml](http://ocaml.org/books.html)
+  + [Caml programming guidelines](http://caml.inria.fr/resources/doc/guides/guidelines.en.html)
