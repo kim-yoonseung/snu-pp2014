@@ -1,14 +1,17 @@
 # TA Page - 4190.210 Principles of Programming 2014 Fall @ SNU #
 
-TA: [Jeehoon Kang](http://sf.snu.ac.kr/jeehoon.kang/)
+TA: [Jeehoon Kang](http://sf.snu.ac.kr/jeehoon.kang/),
     [Yoonseung Kim](http://ropas.snu.ac.kr/~yskim/)
+    
     [Software Foundations Laboratory](http://sf.snu.ac.kr/) / [CSE](http://cse.snu.ac.kr) / [Seoul National University](http://www.snu.ac.kr)
     
 TA Email: (210ta at ropas dot snu dot ac dot kr)
 * For questions, please use [this board](https://ropas.snu.ac.kr/phpbb/viewforum.php?f=33).
 * Send mails here if you need to contact us privately.
 * Please use this, instead of TAs' personal email addresses.
+
 Lecture: Mon 16:00-17:50 @ Bldg 302 Rm 208
+
 Lab: Wed 16:00-17:50 @ Bldg 302 Rm 311-1
 
 ## Announcement ##
@@ -23,21 +26,21 @@ Important: DO NOT CHEAT. we are experts in picking out cheaters. Unfortunately, 
 * Do not attempt to attack TA's graders. Please..
 
 
-## Submission and Grading ##
+### Submission and Grading ###
 
 To be announced
 
 ## Help ##
 
-## Office Hour ##
+### Office Hour ###
 
 Mon, Wed 15:00-16:00 @ Bldg 302 Rm 312-2. If not eligible, please mail us.
 
-## Lab Material ##
+### Lab Material ###
 
 TBA
 
-## Reference ##
+### Reference ###
 
 * Racket(Scheme)
   + [Racket Homepage](http://racket-lang.org)
