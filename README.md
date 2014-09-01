@@ -44,7 +44,7 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 
 ## Lab Material ##
 
-* [20140903](lab/20140903.md)
+* [20140903](lab/20140903/content.md)
 
 ## Reference ##
 
