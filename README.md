@@ -1,5 +1,6 @@
 # TA Page - 4190.210 Principles of Programming 2014 Fall @ SNU #
 
+Instructor: [Gil Hur](http://sf.snu.ac.kr/gil.hur/)
 TA: [Jeehoon Kang](http://sf.snu.ac.kr/jeehoon.kang/),
     [Yoonseung Kim](http://ropas.snu.ac.kr/~yskim/)
     ([Software Foundations Laboratory](http://sf.snu.ac.kr/)
@@ -26,8 +27,8 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 
 * All announcement related to lab sessions and grading will be posted here.
 * Due to shortage in seats, we split the class into two groups for lab session.
-  + Wed 16:00-16:50: those with non-Korean names and those whose name is between "가가가" and TBA (alphabetical order)
-  + Wed 17:00-17:50: those whose name is between TBA and "희희희".
+  + We split class into Wed 16:00-16:50 session and Wed 17:00-17:50 session.
+  + See your session [here](https://docs.google.com/spreadsheets/d/1ENqRc62VRQki8bQtWx3dllMzXuzAJydKve2JyxGZLwQ/edit?usp=sharing).
   + If you do not like your time, do not worry; we will swap at the middle of the semester.
 
 ## Homework ##
