@@ -1,6 +1,7 @@
 # TA Page - 4190.210 Principles of Programming 2014 Fall @ SNU #
 
 Instructor: [Gil Hur](http://sf.snu.ac.kr/gil.hur/)
+
 TA: [Jeehoon Kang](http://sf.snu.ac.kr/jeehoon.kang/),
     [Yoonseung Kim](http://ropas.snu.ac.kr/~yskim/)
     ([Software Foundations Laboratory](http://sf.snu.ac.kr/)
@@ -22,6 +23,7 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * [Course Page](http://sf.snu.ac.kr/gil.hur/4190.210/14/)
 * [Board](https://ropas.snu.ac.kr/phpbb/viewforum.php?f=33)
   + *Important*: all students should sign on the board by their real name. If not, we will not answer your question.
+* [Lab Materials](/lab)
 
 ## Announcement ##
 
@@ -42,10 +44,6 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 ### Submission and Grading ###
 
 * [TBA](http://en.wikipedia.org/wiki/To_be_announced)
-
-## Lab Material ##
-
-* [20140903](lab/20140903/content.md)
 
 ## Reference ##
 
