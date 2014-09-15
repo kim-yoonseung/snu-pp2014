@@ -1,7 +1,7 @@
 # Lab Session, Principles of Programming #
 
 20140903 (Wed) 16:00-17:50
-TA [Jeehoon Kang](http://sf.snu.ac.kr/jeehoon.kang), [Jeehoon Kang](http://ropas.snu.ac.kr/~jhkang)
+TA [Jeehoon Kang](http://sf.snu.ac.kr/jeehoon.kang), [Yoonseung Kim](http://ropas.snu.ac.kr/~yskim)
 
 ## Introduction ##
 
