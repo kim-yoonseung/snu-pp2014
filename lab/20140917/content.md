@@ -35,6 +35,13 @@ We aim to learn concepts related to the homework 1.
 "Principles of Programming"
 ```
 
+* Symbols
+```racket
+'hur
+'jee
+'yoon
+```
+
 * Pairs
 ```racket
 (cons 2 3)
@@ -80,6 +87,10 @@ if, equal?, or, and, +, -, *, /, <, quotient, remainder, ...
 
 ```racket
 (if (equal? 1 2) "X" "O")
+```
+
+```racket
+(if (equal? 'z 'z) "O" "X")
 ```
 
 ```racket
@@ -169,13 +180,14 @@ If you want to express a complex calculation, you may want to name an intermedia
 
 ### Define ###
 
-In the above example, ```myfactorial```is quite a general function, so you want to reuse it. But if you type:
+Suppose you want to apply the same function several times.
 ```racket
-(myfactorial 5)
+(lambda (x) (+ x 1)) 1
+(lambda (x) (+ x 1)) 2
+(lambda (x) (+ x 1)) 3
 ```
-then you will see an error message. This is because ```myfactorial``` is not ```defined```ed, but just ```letrec```-ed in an expression. After the expression, you cannot use ```myfactorial``` anymore.
 
-To solve this problem, you can assign an expression in a variable by ```define```, however complicated the expression is.
+This is quite inconvenient as you have to type much, and ugly since the same bit pattern recurs. To solve this problem, you can assign an expression in a variable by ```define```, however complicated the expression is.
 
 ```racket
 (define s (string-append "Hello, " "World!\n"))
@@ -218,7 +230,7 @@ There is a easier way to ```define``` a procedure.
 #### Recursion with letrec ####
 
 You can define a recursive function with ```letrec```:
-* ```racket
+```racket
 (letrec
     ([myfactorial
       (lambda (n)
@@ -227,7 +239,7 @@ You can define a recursive function with ```letrec```:
 ```
 
 As you can see, the definition of ```myfactorial``` calls ```myfactorial```. In other words, ```myfactorial``` uses itself! Contrast this with ```let``` version:
-* ```racket
+```racket
 (let
     ([myfactorial
       (lambda (n)
