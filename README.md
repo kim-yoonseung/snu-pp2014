@@ -29,6 +29,7 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 
 * All announcement related to lab sessions and grading will be posted here.
 * Due to shortage in seats, we split the class into two groups for lab session.
+  + If you don't have an account, try ID `pp2014-2`. Password will be distributed offline.
   + We split class into Wed 16:00-16:50 session and Wed 17:00-17:50 session.
   + See your session [here](https://docs.google.com/spreadsheets/d/1ENqRc62VRQki8bQtWx3dllMzXuzAJydKve2JyxGZLwQ/edit?usp=sharing).
   + If you do not like your time, do not worry; we will swap at the middle of the semester.

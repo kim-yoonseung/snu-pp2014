@@ -12,6 +12,7 @@ TA [Jeehoon Kang](http://sf.snu.ac.kr/jeehoon.kang), [Yoonseung Kim](http://ropa
 
 ### Lab Session ###
 
+* If you don't have an account, try ID `pp2014-2`.
 * You may leave anytime you want, once TA explained today's contents.
 * Questions to TAs are very encouraged.
 * However, as you will see, TAs are very answering your questions in lab session. You may have to wait for 10 minutes for a TA! For your own sake, try to ask students around you first.
