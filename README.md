@@ -26,7 +26,7 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * [Lab Materials](/lab)
 
 ## Announcement ##
-* *important* [The skeleton codes of hw1](homeworks/pp_hw1.zip) is out. You can use the self graders by executing them.
+* *important* [The skeleton codes & self graders of hw1](homeworks/pp_hw1.zip) is out. Click `View raw' to download it. You can use the self graders by executing them.
 * All announcement related to lab sessions and grading will be posted here.
 * Due to shortage in seats, we split the class into two groups for lab session.
   + If you don't have an account, try ID `pp2014-2`. Password will be distributed offline.
