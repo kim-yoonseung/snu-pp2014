@@ -27,7 +27,7 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 
 ## Announcement ##
 * *important*: The self graders of hw 1-3 and 1-7 are revised. Please download them [here](homeworks/pp_hw1_37.zip) and replace the previous ones with these. This new grader of 1-7 works only if you did hw1-6 correctly, but when we actually grade your homework, we will use the correct version of hw1-6 so don't worry about it.
-* *important*: The skeleton codes & self graders of hw1 is out [here](homeworks/pp_hw1.zip). Click `View Raw` to download it. You can use the self graders by just executing them in DrRacket. The due date is 9/23(Tue), 24:00.
+* *important*: The skeleton codes & self graders of hw1 is out [here](homeworks/pp_hw1.zip). Click `View Raw` to download it.
 * All announcement related to lab sessions and grading will be posted here.
 * Due to shortage in seats, we split the class into two groups for lab session.
   + If you don't have an account, try ID `pp2014-2`. Password will be distributed offline.
@@ -36,7 +36,8 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
   + If you do not like your time, do not worry; we will swap at the middle of the semester.
 
 ## Homework ##
-
+* The due date of homework #1 is 9/24(Tue), 24:00.
+* Read [instructions on homework](homeworks/instr-hw.md).
 * *Important*: DO NOT CHEAT. we are experts in picking out cheaters. Unfortunately, every year some students cheat. :$
   + Do not copy other's source code. We use an automated clone checker for all the submissions of 10 years.
   + Do not attempt to attack TA's graders. Please..

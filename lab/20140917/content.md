@@ -7,7 +7,7 @@ TA [Jeehoon Kang](http://sf.snu.ac.kr/jeehoon.kang), [Yoonseung Kim](http://ropa
 
 ### Homework ###
 
-* See [general instruction on homework](instr-hw.md).
+* See [general instruction on homework](../homeworks/instr-hw.md).
 * [HW1](http://sf.snu.ac.kr/gil.hur/4190.210/14/hws/hw1-eng.pdf) is out.
 
 ### Lab Session ###
