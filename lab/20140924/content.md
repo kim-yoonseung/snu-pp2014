@@ -67,6 +67,7 @@ Note that `map` looks similar to `incr-list`, except that `incr-list` increases 
 
 ## Exercise ##
 - Is list even?
+
 Implement ```list-even?``` that, given a list of integers, results in the list of booleans which indicate whether the given integers are even. Fill the blank.
 ```racket
 ; you may want to use standard library function (even? n)
@@ -79,6 +80,7 @@ Implement ```list-even?``` that, given a list of integers, results in the list o
 ```
 
 - Is list even?: `map` version
+
 Implement ```list-even?'``` that works exactly the same with ```list-even?```. Use `map`.
 ```racket
 (define (list-even?' items)
@@ -88,6 +90,7 @@ Implement ```list-even?'``` that works exactly the same with ```list-even?```. U
 ```
 
 - Has even?
+
 Implement ```has-even?``` that checks if a given list has an even number as follows:
 ```racket
 (has-even '(1 2 3 5)) ; #t
@@ -100,4 +103,4 @@ Note that it is convenient to implement `(or-multi l)` that, given a list `l` of
   (or-multi (list-even? l)))
 ```
 
-See [skeleton.rkt] for today's exercises.
+See [skeleton.rkt](skeleton.rkt) for today's exercises.
