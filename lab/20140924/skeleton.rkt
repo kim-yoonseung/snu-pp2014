@@ -1,3 +1,5 @@
+#lang racket
+
 (define (length l)
   (if (null? l)
       0
@@ -13,30 +15,30 @@
       '()
       (cons (f (car l)) (map f (cdr l)))))
 
-(define (incr-list' l)
+(define (incr-list- l)
   (map (lambda (x) (+ 1 x)) l))
 
 (define (filter test l)
   (if (null? l)
       '()
       (if (test (car l))
-          (cons (car l) (filter f (cdr l)))
-          (filter f (cdr l)))))
+          (cons (car l) (filter test (cdr l)))
+          (filter test (cdr l)))))
 
 ; you may want to use standard library function (even? n)
 (define (list-even? items)
   (if (null? items)
     '()
-    (cons 'TODO (even-list 'TODO))))
+    (cons 'TODO (list-even? 'TODO))))
 
 (list-even? (list 0 1 2 3 4 5 6)) ; '(#t #f #t #f #t #f #t)
 
-(define (list-even?' items)
+(define (list-even?- items)
   (map 'TODO items))
 
-(list-even?' (list 0 1 2 3 4 5 6)) ; '(#t #f #t #f #t #f #t)
+(list-even?- (list 0 1 2 3 4 5 6)) ; '(#t #f #t #f #t #f #t)
 
-(define (or-multl l)
+(define (or-multi l)
   'TODO)
 
 (define (has-even l)
