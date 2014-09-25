@@ -26,6 +26,7 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * [Lab Materials](/lab)
 
 ## Announcement ##
+* The self grader & skeleton code of hw2 is out [here](homeworks/pp_hw2.zip).
 * *important*: The self graders of hw 1-3 and 1-7 are revised. Please download them [here](homeworks/pp_hw1_37.zip) and replace the previous ones with these. This new grader of 1-7 works only if you did hw1-6 correctly, but when we actually grade your homework, we will use the correct version of hw1-6 so don't worry about it.
 * *important*: The skeleton codes & self graders of hw1 is out [here](homeworks/pp_hw1.zip). Click `View Raw` to download it.
 * All announcement related to lab sessions and grading will be posted here.
