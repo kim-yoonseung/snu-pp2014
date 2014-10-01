@@ -11,7 +11,7 @@ Implement `circ`, `flip`, `map`, `reduceLeft`, `reduceRight`, `filter`.
 - `flip` reorders its arguments, i.e., `((flip f) x y) = (f y x)`.
 - `map` transforms each element of a list, i.e., `(map f (list a b c)) = (list (f a) (f b) (f c))`.
 - `reduceLeft` reduces the list from the left, i.e., `(reduceLeft r i (list a b c)) = (r (r (r i a) b) c)`.
-- `reduceRight` reduces the list from the right, i.e., `(reduceLeft r (list a b c)) i = (r a (r b (r c i)))`.
+- `reduceRight` reduces the list from the right, i.e., `(reduceRight r (list a b c)) i = (r a (r b (r c i)))`.
 - `filter` filters by a test function, i.e., `(filter test (list a b c)) = (list a c)`, if `(test a)` and `(test c)` are `#t` but `(test b)` is `#f`.
 
 ## Type ##
@@ -27,7 +27,7 @@ Implement `circ`, `flip`, `map`, `reduceLeft`, `reduceRight`, `filter`.
 ```racket
 (define x 1) ; int
 (define y "Jessica") ; string
-(define (z x) (string-append "SM and ")) ; string -> string
+(define (z x) (string-append "SM and " x)) ; string -> string
 (define w (z y)) ; string
 (define (a x y) (+ (* x 3) y)) ; int * int -> int
 (define (id x) x) ; X -> X

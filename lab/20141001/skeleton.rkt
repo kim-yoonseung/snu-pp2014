@@ -31,7 +31,7 @@
 
 (print (equal? 58 (reduceLeft simpl 0 (list 1 2 3 4)))) ; shall be #t
 
-; `reduceRight` reduces the list from the right, i.e., `(reduceLeft r (list a b c)) i = (r a (r b (r c i)))`.
+; `reduceRight` reduces the list from the right, i.e., `(reduceRight r (list a b c)) i = (r a (r b (r c i)))`.
 (define (reduceRight r l i) ; (X * Y -> Y) * X list -> Y
   'TODO)
 
@@ -46,7 +46,7 @@
 ; Type Examples
 (define x 1) ; int
 (define y "Jessica") ; string
-(define (z x) (string-append "SM and ")) ; string -> string
+(define (z x) (string-append "SM and " x)) ; string -> string
 (define w (z y)) ; string
 (define (a x y) (+ (* x 3) y)) ; int * int -> int
 (define (id x) x) ; X -> X
