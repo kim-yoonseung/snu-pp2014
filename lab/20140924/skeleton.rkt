@@ -29,17 +29,18 @@
 (define (list-even? items)
   (if (null? items)
     '()
-    (cons 'TODO (list-even? 'TODO))))
+    (cons (even? (car l)) (list-even? (cdr l)))))
 
 (list-even? (list 0 1 2 3 4 5 6)) ; '(#t #f #t #f #t #f #t)
 
 (define (list-even?- items)
-  (map 'TODO items))
+  (map even? items))
 
 (list-even?- (list 0 1 2 3 4 5 6)) ; '(#t #f #t #f #t #f #t)
 
 (define (or-multi l)
-  'TODO)
+  (if (null? l) #f
+      (or (car l) (or-multi (cdr l)))))
 
 (define (has-even l)
   (or-multi (list-even? l)))
