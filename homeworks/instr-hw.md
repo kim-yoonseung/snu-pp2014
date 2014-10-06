@@ -2,9 +2,9 @@
 
 ## Rules ##
 
-* You should submit your code, such as `.rkt' file, for each problem.
+* You should submit your code, such as `.rkt` file, for each problem.
 
-* If you see a warning page while uploading `.rkt' files, then please change the file extension as `.txt'.
+* If you see a warning page while uploading `.rkt` files, then please change the file extension as `.txt`.
 
 * You should upload your file using our online submission system shown below.
 
