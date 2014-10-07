@@ -27,3 +27,5 @@ URL: [http://ropas.snu.ac.kr/~ta/4190.210/14/hw/submit/](http://ropas.snu.ac.kr/
 * Click 'Register' and register.
 
 * You can upload your homeworks after login. You can re-upload your file before the deadline.
+
+* We confirm your submission status [here](https://docs.google.com/spreadsheets/d/1U6o1kiyhlzTgWHpwbanHYmWH0E7GZ2snLfczqxtJZaM/pubhtml). We are going to renew the information quasi-periodically.
