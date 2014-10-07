@@ -3,8 +3,6 @@
 20141008 (Wed) 16:00-17:50
 TA [Jeehoon Kang](http://sf.snu.ac.kr/jeehoon.kang), [Yoonseung Kim](http://ropas.snu.ac.kr/~yskim)
 
-See and download [skeleton.rkt](skeleton.rkt) for this lab session.
-
 ## Termination of Program ##
 
 The following function, `fac` to compute factorial, terminates:
