@@ -36,7 +36,6 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
   + If you do not like your time, do not worry; we will swap at the middle of the semester.
 
 ## Homework ##
-* The due date of homework #1 is 9/25(Thu.), 24:00.
 * Read [instructions on homework](homeworks/instr-hw.md).
 * *Important*: DO NOT CHEAT. we are experts in picking out cheaters. Unfortunately, every year some students cheat. :$
   + Do not copy other's source code. We use an automated clone checker for all the submissions of 10 years.
