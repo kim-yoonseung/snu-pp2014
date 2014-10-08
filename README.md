@@ -26,8 +26,9 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * [Lab Materials](/lab)
 
 ## Announcement ##
+* HW3 is out on the course homepage. The skeleton code & self graders will be provided soon.
+* Check your grade of HW1 [here](https://ropas.snu.ac.kr/phpbb/viewtopic.php?t=4412).
 * The solution of hw1 is out [here](homeworks/pp_hw1_sol.zip). This may not be the optimal solution, but it passes all the given test cases.
-* The self grader & skeleton code of hw2 are out [here](homeworks/pp_hw2.zip).
 * All announcement related to lab sessions and grading will be posted here.
 * Due to shortage in seats, we split the class into two groups for lab session.
   + If you don't have an account, try ID `pp2014-2`. Password will be distributed offline.
