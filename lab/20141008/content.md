@@ -25,7 +25,7 @@ inputs of the `my-gcd` function are bigger than or equal to 0.
 
 ```racket
 (define (my-gcd n m)
-  (printf "~s~n" 'TODO)
+  (printf "~s~n" (+ n m))
   (cond ((= n 0) m)
         ((= m 0) n)
         ((< n m) (my-gcd n (- m n)))
