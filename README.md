@@ -44,10 +44,6 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * *Important*: Use [Racket 6.1](http://download.racket-lang.org) and [OCaml 4.01](http://ocaml.org/docs/install.html). If you are not using these versions, your submission may not be properly graded.
 * Follow homework instructions strictly. Especially, watch your input/output formats. We will give you self graders, so grade with it before submission.
 
-### Submission and Grading ###
-
-* [TBA](http://en.wikipedia.org/wiki/To_be_announced)
-
 ## Reference ##
 
 * Racket(Scheme)
