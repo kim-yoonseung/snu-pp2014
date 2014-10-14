@@ -26,11 +26,12 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * [Lab Materials](/lab)
 
 ## Announcement ##
+* The two lab sessions are merged. Now we run only the 16:00-16:50 session.
+* Check your grade of HW2 [here](https://ropas.snu.ac.kr/phpbb/viewtopic.php?t=4440).
+* The solution of hw2 is out [here](homeworks/pp_hw2_sol.zip). 
 * *important*: From homework 3, you will really get 0 points if you upload compressed files.
 * The self grader of HW3-3 [HW3-3-grade.rkt](homeworks/hw3-3-grade.rkt) is out.
 * HW3 is out on the course homepage. Download skeleton code & self graders [here](homeworks/pp_hw3.zip).
-* Check your grade of HW1 [here](https://ropas.snu.ac.kr/phpbb/viewtopic.php?t=4412).
-* The solution of hw1 is out [here](homeworks/pp_hw1_sol.zip). This may not be the optimal solution, but it passes all the given test cases.
 * All announcement related to lab sessions and grading will be posted here.
 * Due to shortage in seats, we split the class into two groups for lab session.
   + If you don't have an account, try ID `pp2014-2`. Password will be distributed offline.
