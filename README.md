@@ -26,6 +26,7 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * [Lab Materials](/lab)
 
 ## Announcement ##
+* *important*: From homework 3, you will really get 0 points if you upload compressed files.
 * The self grader of HW3-3 [HW3-3-grade.rkt](homeworks/hw3-3-grade.rkt) is out.
 * HW3 is out on the course homepage. Download skeleton code & self graders [here](homeworks/pp_hw3.zip).
 * Check your grade of HW1 [here](https://ropas.snu.ac.kr/phpbb/viewtopic.php?t=4412).
