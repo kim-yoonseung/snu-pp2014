@@ -27,7 +27,6 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 
 ## Announcement ##
 * HW4 is out on the course homepage. Download skeleton code & self graders [here](homeworks/pp_hw4.zip).
-
 * The two lab sessions are merged. Now we run only the 16:00-16:50 session.
 * Check your grade of HW2 [here](https://ropas.snu.ac.kr/phpbb/viewtopic.php?t=4440).
 * The solution of hw2 is out [here](homeworks/pp_hw2_sol.zip). 
