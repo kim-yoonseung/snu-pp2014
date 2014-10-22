@@ -2,44 +2,48 @@
 
 ;;; complex number
 
-(define (is-c-rect? c)
+(define (is-c-rect? c) ; c-rect -> bool
   'TODO)
 
-(define (c-rect-make x y)
+(define (c-rect-make x y) ; number * number -> c-rect
   'TODO)
 
-(define c-rect-real
+(define c-rect-real ; c-rect -> number
   'TODO)
 
-(define c-rect-imaginary
-  'TODO)
-
-
-(define (is-c-polar? c)
-  'TODO)
-
-(define (c-polar-make theta r)
-  'TODO)
-
-(define c-polar-angle
-  'TODO)
-
-(define c-polar-radius
+(define c-rect-imaginary ; c-rect -> number
   'TODO)
 
 
-(define (c-real c)
+(define (is-c-polar? c) ; c-polar -> bool
+  'TODO)
+
+(define (c-polar-make theta r) ; number * number -> c-polar
+  'TODO)
+
+(define c-polar-angle ; c-polar -> number
+  'TODO)
+
+(define c-polar-radius ; c-polar -> number
+  'TODO)
+
+
+(define (c-real c) ; complex -> number
   (if (is-c-rect? c)
       (c-rect-real c)
       (* (cos (c-polar-angle c)) (c-polar-radius c))))
 
-(define (c-imaginary c) 'TODO)
+(define (c-imaginary c) ; complex -> number
+  'TODO)
 
-(define (c-angle c) 'TODO)
+(define (c-angle c) ; complex -> number
+  'TODO)
 
-(define (c-radius c) 'TODO)
+(define (c-radius c) ; complex -> number
+  'TODO) 
 
-(define (c-conjugate c) 'TODO)
+(define (c-conjugate c) ; complex -> complex
+  'TODO)
 
 (define c1 (c-rect-make 1 2))
 (define c2 (c-rect-make 3 4))
