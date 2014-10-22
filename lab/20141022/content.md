@@ -46,3 +46,12 @@ coordinate system.
 
 - [Complex number](http://en.wikipedia.org/wiki/Complex_number)
 - [Polar coordinate system](http://en.wikipedia.org/wiki/Polar_coordinate_system)
+
+## Finite State Machine, Revisited ##
+
+Since there are only few students in the prevous lab session, we do
+FSM again! See: [20141015/content.rkt](../20141015/content.rkt).
+
+### Challenge ###
+
+Implement a [Turing machine](http://en.wikipedia.org/wiki/Turing_machine) ([Korean](http://ko.wikipedia.org/wiki/%ED%8A%9C%EB%A7%81_%EA%B8%B0%EA%B3%84)).
