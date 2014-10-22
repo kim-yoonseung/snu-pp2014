@@ -33,25 +33,13 @@
       (c-rect-real c)
       (* (cos (c-polar-angle c)) (c-polar-radius c))))
 
-(define (c-imaginary c)
-  (if (is-c-rect? c)
-      (c-rect-imaginary c)
-      (* (sin (c-polar-angle c)) (c-polar-radius c))))
+(define (c-imaginary c) 'TODO)
 
-(define (c-angle c)
-  (if (is-c-rect? c)
-      (atan (c-rect-imaginary c) (c-rect-real c))
-      (c-polar-angle c)))
+(define (c-angle c) 'TODO)
 
-(define (c-radius c)
-  (if (is-c-rect? c)
-      (sqrt (+ (expt (c-rect-real c) 2) (expt (c-rect-imaginary c) 2)))
-      (c-polar-radius c)))
+(define (c-radius c) 'TODO)
 
-(define (c-conjugate c)
-  (if (is-c-rect? c)
-      (c-rect-make (c-rect-real c) (- (c-rect-imaginary c)))
-      (c-polar-make (- (+ pi pi) (c-polar-angle c)) (c-polar-radius c))))
+(define (c-conjugate c) 'TODO)
 
 (define c1 (c-rect-make 1 2))
 (define c2 (c-rect-make 3 4))
