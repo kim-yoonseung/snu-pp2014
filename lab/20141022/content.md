@@ -50,7 +50,7 @@ coordinate system.
 ## Finite State Machine, Revisited ##
 
 Since there are only few students in the prevous lab session, we do
-FSM again! See: [20141015/content.rkt](../20141015/content.rkt).
+FSM again! See: [20141015/content.md](../20141015/content.md).
 
 ### Challenge ###
 
