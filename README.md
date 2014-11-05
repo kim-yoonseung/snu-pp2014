@@ -26,7 +26,8 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * [Lab Materials](/lab)
 
 ## Announcement ##
-* HW5 (Korean ver.) is out on the course homepage. English version will be uploaded soon. Download skeleton code & self graders [here](homeworks/pp_hw5.zip).
+* English version of HW5 is revised. Check the web board for details. Sorry for the confusion.
+* Download skeleton code & self graders of HW5 [here](homeworks/pp_hw5.zip).
 * The two lab sessions are merged. Now we run only the 16:00-16:50 session.
 * Check your grade of HW2 [here](https://ropas.snu.ac.kr/phpbb/viewtopic.php?t=4440).
 * *important*: From homework 3, you will really get 0 points if you upload compressed files.
