@@ -31,12 +31,7 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * Check your grade of HW1,2,3,4 [here](https://ropas.snu.ac.kr/phpbb/viewtopic.php?t=4440).
 * *important*: From homework 3, you will really get 0 points if you upload compressed files.
 * All announcement related to lab sessions and grading will be posted here.
-<!--* Due to shortage in seats, we split the class into two groups for lab session.
-  + If you don't have an account, try ID `pp2014-2`. Password will be distributed offline.
-  + We split class into Wed 16:00-16:50 session and Wed 17:00-17:50 session.
-  + See your session [here](https://docs.google.com/spreadsheets/d/1ENqRc62VRQki8bQtWx3dllMzXuzAJydKve2JyxGZLwQ/edit?usp=sharing).
-  + If you do not like your time, do not worry; we will swap at the middle of the semester.
--->
+* If you don't have an account, try ID `pp2014-2`. Password will be distributed offline.
 
 ## Homework ##
 * Read [instructions on homework](homeworks/instr-hw.md).
