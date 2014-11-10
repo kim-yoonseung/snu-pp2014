@@ -37,6 +37,7 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
   + See your session [here](https://docs.google.com/spreadsheets/d/1ENqRc62VRQki8bQtWx3dllMzXuzAJydKve2JyxGZLwQ/edit?usp=sharing).
   + If you do not like your time, do not worry; we will swap at the middle of the semester.
 -->
+
 ## Homework ##
 * Read [instructions on homework](homeworks/instr-hw.md).
 * *Important*: DO NOT CHEAT. we are experts in picking out cheaters. Unfortunately, every year some students cheat. :$
