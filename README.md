@@ -26,6 +26,7 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * [Lab Materials](/lab)
 
 ## Announcement ##
+* The skeleton code of the project is [here](homeworks/pp_prj.zip).
 * Download skeleton code & self graders of HW6 [here](homeworks/pp_hw6.zip).
 * The two lab sessions are merged. Now we run only the 16:00-16:50 session.
 * Check your grade of HW1,2,3,4 [here](https://ropas.snu.ac.kr/phpbb/viewtopic.php?t=4440).
