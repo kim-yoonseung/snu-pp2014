@@ -26,10 +26,10 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * [Lab Materials](/lab)
 
 ## Announcement ##
+* Download skeleton code & self graders of HW7 [here](homeworks/pp_hw7.zip).
 * The skeleton code of the project is [here](homeworks/pp_prj.zip).
-* Download skeleton code & self graders of HW6 [here](homeworks/pp_hw6.zip).
 * The two lab sessions are merged. Now we run only the 16:00-16:50 session.
-* Check your grade of HW1,2,3,4 [here](https://ropas.snu.ac.kr/phpbb/viewtopic.php?t=4440).
+* Check your grade of HW1,2,3,4,5 [here](https://ropas.snu.ac.kr/phpbb/viewtopic.php?t=4440).
 * *important*: From homework 3, you will really get 0 points if you upload compressed files.
 * All announcement related to lab sessions and grading will be posted here.
 * If you don't have an account, try ID `pp2014-2`. Password will be distributed offline.
