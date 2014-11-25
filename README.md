@@ -26,7 +26,9 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * [Lab Materials](/lab)
 
 ## Announcement ##
+* The due date of challenge problems are until the end of the semester (12/21 24:00).
 * Download skeleton code & self graders of HW7 [here](homeworks/pp_hw7.zip).
+* Solutions for HW 1,2,3,4,5 is uploaded [here](homeworks/).
 * The skeleton code of the project is [here](homeworks/pp_prj.zip).
 * The two lab sessions are merged. Now we run only the 16:00-16:50 session.
 * Check your grade of HW1,2,3,4,5 [here](https://ropas.snu.ac.kr/phpbb/viewtopic.php?t=4440).
@@ -35,6 +37,7 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * If you don't have an account, try ID `pp2014-2`. Password will be distributed offline.
 
 ## Homework ##
+* Penalty for late submission: -5% for each day, and -35% after 7 days.
 * Read [instructions on homework](homeworks/instr-hw.md).
 * *Important*: DO NOT CHEAT. we are experts in picking out cheaters. Unfortunately, every year some students cheat. :$
   + Do not copy other's source code. We use an automated clone checker for all the submissions of 10 years.
