@@ -27,7 +27,7 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 
 ## Announcement ##
 * The due date of challenge problems are until the end of the semester (12/21 24:00).
-* Download skeleton code & self graders of HW7 [here](homeworks/pp_hw7.zip).
+* Download skeleton code & self graders of HW8 [here](homeworks/pp_hw8.zip).
 * Solutions for HW 1,2,3,4,5 is uploaded [here](homeworks/).
 * The skeleton code of the project is [here](homeworks/pp_prj.zip).
 * The two lab sessions are merged. Now we run only the 16:00-16:50 session.
