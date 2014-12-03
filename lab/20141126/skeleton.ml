@@ -10,9 +10,9 @@ type matcher =
 type string = int list
 
 (* See Figure 1 (bottom) *)
-let rec dagger (m:matcher) (char:int) : matcher =
+let rec dagger (m:matcher) (char:int) : matcher list =
   match m with
-  | Empty -> Empty
+  | Empty -> []
   | _ -> raise TODO
 
 (* See Figure 1 (top) *)
