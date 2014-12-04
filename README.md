@@ -26,6 +26,7 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * [Lab Materials](/lab)
 
 ## Announcement ##
+* Download a new version of [HW8-3 self grader](homeworks/hw8_3_grade_dup.ml) if you want. Check the web board for this issue.
 * The due date of challenge problems are until the end of the semester (12/21 24:00).
 * Download skeleton code & self graders of HW8 [here](homeworks/pp_hw8.zip).
 * Solutions for HW 1,2,3,4,5 is uploaded [here](homeworks/).
