@@ -26,16 +26,14 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * [Lab Materials](/lab)
 
 ## Announcement ##
+* Check your score of HW 1~7 [here](https://docs.google.com/spreadsheets/d/1U6o1kiyhlzTgWHpwbanHYmWH0E7GZ2snLfczqxtJZaM/pubhtml#)
+* Solutions for HW 1~7 are uploaded [here](homeworks/).
 * Download [interpreter.ml](homeworks/interpreter.ml) for Project 3.
 * Download a new version of [HW8-3 self grader](homeworks/hw8_3_grade_dup.ml) if you want. Check the web board for this issue.
 * The due date of challenge problems are until the end of the semester (12/21 24:00).
 * Download skeleton code & self graders of HW8 [here](homeworks/pp_hw8.zip).
-* Solutions for HW 1,2,3,4,5 is uploaded [here](homeworks/).
 * The skeleton code of the project is [here](homeworks/pp_prj.zip).
-* The two lab sessions are merged. Now we run only the 16:00-16:50 session.
-* Check your grade of HW1,2,3,4,5 [here](https://ropas.snu.ac.kr/phpbb/viewtopic.php?t=4440).
 * *important*: From homework 3, you will really get 0 points if you upload compressed files.
-* All announcement related to lab sessions and grading will be posted here.
 * If you don't have an account, try ID `pp2014-2`. Password will be distributed offline.
 
 ## Homework ##
