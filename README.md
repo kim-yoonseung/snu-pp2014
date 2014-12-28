@@ -26,6 +26,7 @@ TA Email: (210ta at ropas dot snu dot ac dot kr)
 * [Lab Materials](/lab)
 
 ## Announcement ##
+* The new grader of project 2 is [this](homeworks/hw9_2_actualgrade_2.ml).
 * The graders of challenges and projects are out [here](homeworks/graders.zip).
 * Check the result of all your work [here](https://docs.google.com/spreadsheets/d/1U6o1kiyhlzTgWHpwbanHYmWH0E7GZ2snLfczqxtJZaM/pubhtml#)
 * Solutions for HW 1~7 are uploaded [here](homeworks/).
